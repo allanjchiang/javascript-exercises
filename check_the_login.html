@@ -9,6 +9,21 @@
 <body>
     <script>
         let login = prompt("Please enter your login");
+
+        if (login === "Admin") {
+            let password = prompt("What is your password?");
+            if (password === "TheMaster") {
+                alert("Welcome!");
+            } else if (password === "" || password === null) {
+                alert("Canceled");
+            } else {
+                alert("Wrong password")
+            }
+        } else if (login === "" || login === null) {
+            alert( "Cancelled" );
+        } else {
+            alert("I don't know you");
+        }
     </script>
 </body>
 </html>
