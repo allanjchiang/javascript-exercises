@@ -7,9 +7,14 @@ function makeGreen() {
 }
 
 // Regular
+console.log('hello');
 
 // Interpolated
 
 // Styled
 
 // Warning!
+
+// Error :|
+
+// Info
