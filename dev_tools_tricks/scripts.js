@@ -25,14 +25,16 @@ console.error('OH NOES');
 console.info('Massaging scalp with nails is bad');
 
 // testing
-// const p = document.querySelector('p');
+const p = document.querySelector('p');
 
 // console.assert(p.classList.contains('ouch'), 'That is wrong!');
 
 // clearing
-console.clear();
+// console.clear();
 
 // viewing DOM elements
+console.log(p);
+console.dir(p);
 
 // Grouping together
 
