@@ -22,3 +22,4 @@ console.warn('OH NOOO');
 console.error('OH NOES');
 
 // Info
+console.info('Massaging scalp with nails is bad');
