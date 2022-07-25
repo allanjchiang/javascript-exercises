@@ -37,6 +37,9 @@ console.log(p);
 console.dir(p);
 
 // Grouping together
+dogs.forEach(dog => {
+    console.log(`This is ${dog.name}`);
+});
 
 // Counting
 
