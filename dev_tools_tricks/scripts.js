@@ -19,5 +19,6 @@ console.log('Hello, I am a %s string!', '💩');
 console.warn('OH NOOO');
 
 // Error :|
+console.error('OH NOES');
 
 // Info
