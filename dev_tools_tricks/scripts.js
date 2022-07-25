@@ -13,9 +13,10 @@ console.log('hello');
 console.log('Hello, I am a %s string!', '💩');
 
 // Styled
-console.log('%c I am some great text', 'font-size: 50px');
+// console.log('%c I am some great text', 'font-size: 50px; background: red;');
 
 // Warning!
+console.warn('OH NOOO');
 
 // Error :|
 
