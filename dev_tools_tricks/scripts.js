@@ -10,9 +10,10 @@ function makeGreen() {
 console.log('hello');
 
 // Interpolated
-console.log('Hello, I am a %s string!', '💩')
+console.log('Hello, I am a %s string!', '💩');
 
 // Styled
+console.log('%c I am some great text', 'font-size: 50px');
 
 // Warning!
 
